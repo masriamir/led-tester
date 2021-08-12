@@ -9,8 +9,8 @@ Date "2021-08-03"
 Rev "v1"
 Comp "AKM Circuits LLC"
 Comment1 ""
-Comment2 "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-Comment3 "License: CC-BY-NC-ND-4.0"
+Comment2 "https://creativecommons.org/licenses/by-sa/4.0/"
+Comment3 "License: CC-BY-SA-4.0"
 Comment4 "Author: Amir Masri"
 $EndDescr
 Wire Wire Line
